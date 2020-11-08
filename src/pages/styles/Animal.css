@@ -1,0 +1,14 @@
+.animal-header {
+    display: flex;
+    height: 100px;
+    background-color: lightgrey;
+    justify-content: center;
+    align-items: center;
+    font-size: 24px;
+    font-family: 'Libre Baskerville', sans-serif
+}
+.animal-image {
+    margin-top: 10px;
+    max-width:100%;
+    max-height:100%;
+}

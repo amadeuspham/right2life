@@ -1,0 +1,8 @@
+profile-row {
+    display: flex;
+    background-color: grey;
+}
+chart-img {
+    height: 380px;
+    width: auto;
+}

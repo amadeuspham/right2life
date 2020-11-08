@@ -1,0 +1,56 @@
+.elephant1 {
+    position: absolute;
+    top: 530px;
+    left: 100px;
+    max-width: 60%;
+    max-height: 60%;
+}
+.bear1 {
+    position: absolute;
+    top: 700px;
+    left: 350px;
+    max-width: 40%;
+    max-height: 40%;
+}
+.gorilla1 {
+    position: absolute;
+    top: 620px;
+    left: 700px;
+    max-width: 35%;
+    max-height: 35%;
+}
+.pangolin1 {
+    position: absolute;
+    top: 700px;
+    left: 1200px;
+    max-width: 10%;
+    max-height: 10%;
+}
+.pangolin2 {
+    position: absolute;
+    top: 770px;
+    left: 500px;
+    max-width: 7%;
+    max-height: 7%;
+}
+.parrot1 {
+    position: absolute;
+    top: 150px;
+    left: 0px;
+    max-width: 40%;
+    max-height: 40%;
+}
+.rhino1 {
+    position: absolute;
+    top: 830px;
+    left: 1010px;
+    max-width: 30%;
+    max-height: 30%;
+}
+.sloth1 {
+    position: absolute;
+    top: 300px;
+    left: 1310px;
+    max-width: 15%;
+    max-height: 15%;
+}

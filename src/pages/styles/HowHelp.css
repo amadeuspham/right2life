@@ -1,0 +1,13 @@
+.help-header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Libre Baskerville', sans-serif;
+    font-size: 28px;
+    margin-top: 1em;
+}
+
+.citation {
+    background-color: #dddddd;
+    padding: 3em 0 3em 3em;
+}
