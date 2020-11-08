@@ -2,9 +2,13 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Instruction
 
-In the project directory, you can run:
+Make sure you have node installed. Install the required dependencies by running
+
+### `npm install`
+
+To start the app, run:
 
 ### `yarn start`
 
